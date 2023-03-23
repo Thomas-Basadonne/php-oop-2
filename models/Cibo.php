@@ -19,5 +19,5 @@ class Cibo extends Prodotto
     }
 }
 
-$cibo_1 = new Cibo("Crocchette", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdariolagrario.it%2Fhome%2F62-natural-trainer-crocchette-per-cani-adulti-medium-al-pollo-kg12-8015699007003.html&psig=AOvVaw0hWoYV_fBjjLjpubEJU6VZ&ust=1679681917135000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjsxvLU8v0CFQAAAAAdAAAAABAG", 20, $categoria1, "2024-07-12", "Carne, Verdure, Legumi");
-$cibo_2 = new Cibo("Crocchette", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdariolagrario.it%2Fhome%2F62-natural-trainer-crocchette-per-cani-adulti-medium-al-pollo-kg12-8015699007003.html&psig=AOvVaw0hWoYV_fBjjLjpubEJU6VZ&ust=1679681917135000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjsxvLU8v0CFQAAAAAdAAAAABAG", 15, $categoria2, "2024-07-12", "Pesce, Legumi");
+$cibo_1 = new Cibo("Crocchette", "https://dariolagrario.it/218-large_default/natural-trainer-crocchette-per-cani-adulti-medium-al-pollo-kg12.jpg", 20, $categoria1, "2024-07-12", "Carne, Verdure, Legumi");
+$cibo_2 = new Cibo("Crocchette", "https://www.carrefour.it/dw/image/v2/BDWP_PRD/on/demandware.static/-/Sites-carrefour-master-catalog-IT/default/dwfd43692a/large/CROCCGATTOMANZOFEGVERDCRF-8012666033720-1.png?sw=260&sh=260&sm=fit&sfrm=png", 15, $categoria2, "2024-07-12", "Pesce, Legumi");
